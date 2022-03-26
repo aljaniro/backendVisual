@@ -1,0 +1,17 @@
+D:\visual\proyectos\API\Infraestructura\bin\Debug\net6.0\Infraestructura.deps.json
+D:\visual\proyectos\API\Infraestructura\bin\Debug\net6.0\Infraestructura.dll
+D:\visual\proyectos\API\Infraestructura\bin\Debug\net6.0\Infraestructura.pdb
+D:\visual\proyectos\API\Infraestructura\bin\Debug\net6.0\Core.dll
+D:\visual\proyectos\API\Infraestructura\bin\Debug\net6.0\Core.pdb
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.AssemblyReference.cache
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfoInputs.cache
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfo.cs
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CopyComplete
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.dll
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\refint\Infraestructura.dll
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.pdb
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\ref\Infraestructura.dll
+D:\visual\proyectos\API\Infraestructura\bin\Debug\net6.0\Infraestructura.runtimeconfig.json
+D:\visual\proyectos\API\Infraestructura\obj\Debug\net6.0\Infraestructura.genruntimeconfig.cache
